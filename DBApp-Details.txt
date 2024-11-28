@@ -1,1 +1,21 @@
-<details here>
+==== RECORDS
+[1] Services
+	> can view all (6) services (name, price, description)
+	> can EDIT prices and description ONLY
+	> no create and delete
+	> specific service leads to list of contractors specializing that service
+
+[2] Contractors
+	> can view all contractors (name, title, number, specialization, status)
+	> filter by status, last name, first name
+	> can edit all properties
+
+[3] Customers
+	> can view all customers (name, number, address, status)
+	> filter by status, city, name
+	> can edit all properties
+
+[4] Electric Meters
+	> can view all electric meters present (name, CAN, install date, address)
+	> no edits can be made
+	> each meter leads to the customer detail
