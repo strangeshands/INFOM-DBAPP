@@ -19,3 +19,8 @@
 	> can view all electric meters present (name, CAN, install date, address)
 	> no edits can be made
 	> each meter leads to the customer detail
+
+==== TRANSACTIONS
+[2] Services Availed
+	> Installation:
+		> adding of new meter
