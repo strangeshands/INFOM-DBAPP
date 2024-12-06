@@ -21,6 +21,23 @@
 	> each meter leads to the customer detail
 
 ==== TRANSACTIONS
+[1] Registration
+	> views all the registration history
+	> can be viewed by customer or contractor
+	> can add a new contractor/customer
+
 [2] Services Availed
-	> Installation:
-		> adding of new meter
+	> can view all services availed history
+	> install a new meter
+	> other services
+		> some of the actions changes the status of the meter
+	> filter by year and type
+
+[3] Generation of Bill
+	> views all bill generated
+	> filter
+	> generates bill
+
+[4] Payment
+	> views all payment history
+	> records a new payment
