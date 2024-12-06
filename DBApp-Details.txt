@@ -41,3 +41,19 @@
 [4] Payment
 	> views all payment history
 	> records a new payment
+
+==== REPORTS
+[1] Customer Consumption Report
+	> Consumption, total bill, and payment status
+	> Per year
+	> Per month
+	> Per electric meter
+
+[2] Billing and Payment Performance Report
+	> Total billed amounts, payments received, on-time vs. overdue payments
+	> Per month (given Year and Month)
+
+[3] Meter Operations Report
+	> Total services availed count
+	> Per operation type
+	> Per month (given Year and Month)
