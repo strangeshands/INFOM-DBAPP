@@ -57,3 +57,7 @@
 	> Total services availed count
 	> Per operation type
 	> Per month (given Year and Month)
+
+[4] Geographical Analysis of Customer Accounts Report 
+	> Total number of connected meters, average consumption, and average consumption fee
+	> Per city
