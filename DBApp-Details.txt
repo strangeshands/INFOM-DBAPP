@@ -41,10 +41,3 @@
 [4] Payment
 	> views all payment history
 	> records a new payment
-
-==== REPORTS
-[1] Customer Consumption Report
-	> Consumption, total bill, and payment status
-	> Per year
-	> Per month
-	> Per electric meter
