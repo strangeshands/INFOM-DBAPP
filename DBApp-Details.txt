@@ -47,5 +47,9 @@
 	> Consumption, total bill, and payment status
 	> Per year
 	> Per month
-	> Per electric mete
+	> Per electric meter
+
+[2] Billing and Payment Performance Report
+	> Total billed amounts, payments received, on-time vs. overdue payments
+	> Per month (given Year and Month)
 
